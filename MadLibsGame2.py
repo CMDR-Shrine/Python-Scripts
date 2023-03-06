@@ -1,0 +1,27 @@
+adjective_1 = input("Type and Adjective: ")
+PluralN_1 = input("Type a Plural Noun: ")
+Verb_ING_1 = input("Type a Verb ending in 'ing': ")
+PluralN_2 = input("Type a Plural Noun: ")
+FemCel_1 = input("Name a Female Celebrity: ")
+Pers_R_1 = input("Name a Person in the room: ")
+SillW_1 = input("Type a silly word!: ")
+Verb_1 = input("Type a Verb: ")
+FoodP_1 = input("Type a food 'plural': ")
+Noun_1 = input("Type a Noun: ")
+adjective_2 = input("Type an adjective: ")
+adjective_3 = input("Type an adjective...again: ")
+ShoeP_1 = input("Type of shoe 'plural': ")
+Alive_1 = input("Type something that is alive: ")
+Verb_ING_2 = input("Type a verb ending in 'ing': ")
+Noun_2 = input("Type a noun: ")
+SillW_2 = input("Type a silly word: " )
+
+print("One of the most " + adjective_1  + " things about graduating is that my " + PluralN_1 + ".")
+print(" are " + Verb_ING_1 +  " a huge party! I decided to have a backyard barbique for " )
+print(" my tearcher Mrs. " + FemCel_1 +  ", " + Pers_R_1 + ", and of course my teacher Mrs."  +  SillW_1 +  "."  )
+print(" My dad is going to " + Verb_1 +  " hamburgers and " + FoodP_1 + " on his shiney new " + Noun_1 + ".")
+print("He always thinks his " + FoodP_1 + " taste really " + adjective_2 + ", but i think they taste like " + adjective_3 + " " + ShoeP_1 )
+print("My mom is going to make her famous" + Alive_1 + " salad, which is my favorite " + Noun_2 + "." + SillW_2 )
+
+
+
